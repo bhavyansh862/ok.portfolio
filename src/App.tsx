@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import { gsap } from 'gsap';
-import Resume from "./components/Resume";
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
 // Component Imports
